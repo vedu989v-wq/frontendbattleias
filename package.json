@@ -1,0 +1,13 @@
+{
+  "name": "ravindras-ias-institute",
+  "version": "1.0.0",
+  "description": "Ravindra's IAS Institute - UPSC Coaching Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": ["UPSC", "IAS", "Coaching"],
+  "author": "vedu989v-wq",
+  "license": "MIT"
+}
